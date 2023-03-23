@@ -1,1 +1,1 @@
-Tic-Tac-Toe gae Using python numpy and tkinter
+Tic-Tac-Toe game Using python numpy and tkinter
