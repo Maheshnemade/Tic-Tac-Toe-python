@@ -1,6 +1,5 @@
-# Author: aqeelanwar
-# Created: 12 March,2020, 7:06 PM
-# Email: aqeel.anwar@gatech.edu
+#Author: Maheshnemade    
+
 
 from tkinter import *
 import numpy as np
